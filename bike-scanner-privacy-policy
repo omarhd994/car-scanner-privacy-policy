@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Bike Scanner - AI Camera</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective date: September 28, 2025</p>
+
+  <h2>Introduction</h2>
+  <p>This Privacy Policy applies to the <strong>Bike Scanner - AI Camera</strong> mobile application (the "Application") provided by <strong>OmarDevSolutions</strong> ("Service Provider"). The Application allows users to check motorcycles by submitting images and vehicle details such as make, model, year, and engine type. The service is provided "AS IS".</p>
+
+  <h2>Information Collection</h2>
+  <p>The Application does not collect personal information such as your name, email, or location. Only motorcycle-related information and images are submitted for analysis:</p>
+  <ul>
+    <li>Motorcycle make, model, year, and fuel type.</li>
+    <li>Photos of motorcycles or motorcycle parts.</li>
+  </ul>
+  <p>No other personal data is required or collected.</p>
+
+  <h2>Image Processing</h2>
+  <p>Images submitted through the Application are processed temporarily to detect motorcycle faults or defects. Key points:</p>
+  <ul>
+    <li>Images are transmitted securely to the analysis API.</li>
+    <li>Images and analysis data are <strong>not stored permanently</strong> by the Application or API.</li>
+    <li>All processing happens in real-time and is deleted immediately after analysis.</li>
+  </ul>
+
+  <h2>Use of Third-Party Services</h2>
+  <p>The Application uses third-party AI and vision APIs to process images. These services:</p>
+  <ul>
+    <li>Do not retain your personal or motorcycle data beyond the processing session.</li>
+    <li>Are used solely to provide the requested motorcycle analysis.</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>The Service Provider does not share images or motorcycle data with third parties. Disclosure may occur only:</p>
+  <ul>
+    <li>When required by law (e.g., subpoena).</li>
+    <li>To protect the rights, safety, or security of the Service Provider or users.</li>
+    <li>To trusted service providers under strict confidentiality obligations.</li>
+  </ul>
+
+  <h2>Data Retention</h2>
+  <p>No motorcycle data or images are stored permanently. Any temporary data is deleted immediately after analysis.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>The Application is not intended for children under 13. We do not knowingly collect information from children. If you believe your child has provided data, please contact us at <a href="mailto:genioweb.es@gmail.com">genioweb.es@gmail.com</a> so we can delete it immediately.</p>
+
+  <h2>Security</h2>
+  <p>The Service Provider takes reasonable measures to protect any data during processing, including encryption and secure transmission. However, no system can guarantee 100% security.</p>
+
+  <h2>Opt-Out</h2>
+  <p>You can stop using the Application at any time by uninstalling it. This will end all data processing.</p>
+
+  <h2>Changes to This Privacy Policy</h2>
+  <p>We may update this Privacy Policy periodically. Continued use of the Application after updates constitutes acceptance of the changes.</p>
+
+  <h2>Your Consent</h2>
+  <p>By using the Application, you consent to the collection and processing of motorcycle data and images as described in this Privacy Policy.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions regarding this Privacy Policy, contact us at <a href="mailto:genioweb.es@gmail.com">genioweb.es@gmail.com</a>.</p>
+
+</body>
+</html>
